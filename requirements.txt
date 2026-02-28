@@ -1,0 +1,4 @@
+python-telegram-bot==22.6
+httpx>=0.27,<0.29
+requests
+deep-translator
